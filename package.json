@@ -1,0 +1,21 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Um clone para fins de estudos e aplicação real",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "24.0.7",
+    "@types/react": "19.1.8",
+    "typescript": "5.8.3"
+  }
+}
